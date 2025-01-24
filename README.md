@@ -6,15 +6,7 @@ Welcome to my GitHub! I'm a Software Developer based in London. Here you can fin
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syedur-rahman-8088a3146/)
-
----
-
-## 📊 GitHub Insights
-
-<!-- GitHub Stats with a donut chart layout -->
-<p align="left">
-  <img src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=syedur-r&hide=jupyter%20notebook,Rich%20Text%20Format&langs_count=5&layout=donut&theme=github&hide_border=true" alt="Top Languages" width="500"/>
-</p>
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ---
 
@@ -64,6 +56,9 @@ Here's a list of technologies I've worked with:
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Insights
 
-Feel free to reach out via my [LinkedIn](https://linkedin.com/in/syedur-rahman-8088a3146/) or [Email](mailto:syedurrahman82@gmail.com).
+<!-- GitHub Stats with a donut chart layout -->
+<p align="left">
+  <img src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=syedur-r&hide=jupyter%20notebook,Rich%20Text%20Format&langs_count=5&layout=donut&theme=github&hide_border=true" alt="Top Languages" width="500"/>
+</p>
