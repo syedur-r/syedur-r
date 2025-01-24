@@ -59,6 +59,7 @@ Here's a list of technologies I've worked with:
 ## 📊 GitHub Insights
 
 <!-- GitHub Stats with a donut chart layout -->
+
 <p align="left">
-  <img src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=syedur-r&hide=jupyter%20notebook,Rich%20Text%20Format&langs_count=5&layout=donut&theme=github&hide_border=true" alt="Top Languages" width="500"/>
+  <img src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=syedur-r&hide=jupyter%20notebook,Rich%20Text%20Format&langs_count=5&layout=donut&theme=radical&hide_border=true" alt="Top Languages" width="500"/>
 </p>
